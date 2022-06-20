@@ -2,5 +2,8 @@
 #!bin/bash
 =======
 #!/bin/bash
+<<<<<<< HEAD
+>>>>>>> update_script
+=======
 >>>>>>> update_script
 The school is open!
